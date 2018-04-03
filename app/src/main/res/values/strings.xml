@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZDH离校登记</string>
+    <string name="MainWordsSize">15sp</string>
+    <string name="BiggestWordsSize">40sp</string>
+    <string name="BigWordsSize">30sp</string>
+    <string name="MinWordsSize">10sp</string>
+</resources>

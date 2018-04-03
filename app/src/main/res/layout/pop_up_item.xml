@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@color/whiteBack">
+    <TextView
+        android:id="@+id/pop_up_item_dis_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/mainBack"
+        android:textSize="15sp"
+        android:text="Pop Up Item"
+        />
+</android.support.constraint.ConstraintLayout>
