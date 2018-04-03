@@ -6,10 +6,10 @@
     <color name="accent">#00BCD4</color>
     <color name="primary_text">#FFFFFF</color>
     <color name="smoke_back">#F0F0F0</color>
-    <color name="primary_text_dark">#515151</color>
+    <color name="primary_text_dark">#E0515151</color>
     <color name="secondary_text">#E0FFFFFF</color>
-    <color name="secondary_text_dark">#8a8a8a</color>
-    <color name="divider">#BDBDBD</color>
+    <color name="secondary_text_dark">#E08a8a8a</color>
+    <color name="divider">#A0BDBDBD</color>
     <color name="whiteBack">#FFFFFF</color>
     <color name="recordTag">#00BCD4</color>
     <color name="mainBack">#00BCD4</color>
